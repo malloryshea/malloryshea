@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: She/Her
 
-- 💬 Ask me about... anything point of interest, I'm an open book.
+- 💬 Ask me about... any point of interest about me, I'm an open book.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
