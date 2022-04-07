@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mallory Shea</h1>
-<h3 align="center">A passionate frontend developer from Austin, TX.</h3>
+<h3 align="center">A passionate frontend developer and interested in UX/UI design as well from Austin, TX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malloryshea&label=Profile%20views&color=0e75b6&style=flat" alt="malloryshea" /> </p>
 
-- 🌱 I’m currently learning **Javascript and React**
+- 🌱 I’m currently learning **Javascript and React and improving on a daily basis!!**
 
 - 👨‍💻 All of my projects are available on [Github](Github)
 
